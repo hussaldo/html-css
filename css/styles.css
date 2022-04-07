@@ -1,0 +1,33 @@
+body{
+background-image:url('background-image.png');
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 10%;
+}
+img{
+height: 150px;
+width: 150px;
+}
+
+.table{
+  width: 100%;
+
+
+.conact{
+  color: #fff;
+  background-color: orange;
+   text-decoration: none;
+   font: 1em;
+   font-weight: 500;
+   display: inline-block;
+   padding: 0.93754em;
+   letter-spacing: 1px;
+   border-radius: 15px;
+   margin-top: 30px;
+
+}
